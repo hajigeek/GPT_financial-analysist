@@ -4,7 +4,10 @@ This project highlights how to leverage a ChromaDB vectorstore in a Langchain pi
 ## See it live and in action 📺
 
 
-https://github.com/hajigeek/GPT_financial-analysist/assets/63127596/bff895dd-ca99-4790-baca-cf0bfd34798d
+
+
+https://github.com/hajigeek/GPT_financial-analysist/assets/63127596/7be4cadc-2275-4d06-8690-2dcf6a169459
+
 
 
 # Startup 🚀
